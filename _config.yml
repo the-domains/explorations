@@ -1,0 +1,14 @@
+layout_spectrum: 0.5411821
+typography_spectrum: 0.1082896
+color:
+  saturation: 0.9231569
+  lightness: 0.08941093
+  brandStrength: 0.1107117
+  rhythmicContrast: 0.9459004
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Explorations
